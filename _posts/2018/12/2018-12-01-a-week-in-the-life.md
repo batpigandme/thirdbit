@@ -4,17 +4,26 @@ date: 2018-12-01 02:00
 title: "A Week in the Life"
 ---
 
-Studying the spread of *nanus hortorum vulgaris* (the common garden gnome).
-Let's meet the team:
+I've contributed to papers about
+[best practices](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+and [good enough practices](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+in scientific computing,
+and about [making research software more robust](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412).
+But good practices can seem pretty abstract until you see them in action,
+so to make those papers' recommendations more concrete,
+let's have a look at a week in the life of a research group that's studying
+the spread of *nanus hortorum vulgaris*,
+better known as the common garden gnome.
+To start, let's meet the team:
 
 <table>
 <tr>
   <td><img src="{{site.github.url}}/files/robots/lhawang.png" alt="Lhawang" width="100"/></td>
   <td>
-    Lhawang, the team lead, has a PhD in ecology,
+    Lhawang, the principal investigator, has a PhD in ecology,
     and has written two CRAN packages that provide tools for analyzing the geographic spread of invasive species.
-    She has been working for the agency for nine years,
-    and leading this team for two.
+    She has been working for the government for nine years,
+    and leading this research project for two.
   </td>
 </tr>
 <tr>
@@ -22,7 +31,7 @@ Let's meet the team:
   <td>
     Haddad is the team's gnomologist.
     He also has a PhD in ecology,
-    but spent most of his time in the field rather than in front of a computer.
+    but did most of his research in the field rather than at a computer.
     He has picked up a little bit of R since joining Lhawang's team last year,
     and has learned enough about Git and the shell to get by,
     but still feels like a novice when it comes to computing.
@@ -35,7 +44,7 @@ Let's meet the team:
     and starting her PhD,
     in part to decide if she really wants to do one
     or would rather become a data scientist in industry.
-    She learned how to build WordPress websites from her roommates as an undergrad,
+    She took a statistics course last year that made heavy use of R,
     and is working through online courses on data science in her spare time.
   </td>
 </tr>
@@ -51,8 +60,7 @@ Let's meet the team:
 <tr>
   <td><img src="{{site.github.url}}/files/robots/tiwa.png" alt="Tiwa" width="100"/></td>
   <td>
-    Tiwa is probably Lhawang's boss:
-    the last re-organization left the matter in a rather quantum state.
+    Tiwa is probably Lhawang's boss—the last re-organization left the matter in a rather quantum state.
     They used to do ecology,
     but their main concern right now is getting and defending the funding the project needs.
     To help with that,
